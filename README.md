@@ -68,7 +68,7 @@ $ docker run -p 3000:3000 node-docker-app
 App running on http://localhost:3000
 ```
 
-<img src="https://github.com/progressivepull/Resources/blob/main/Graphics/rock-paper-scissors/HelloDocker.jpg" alt="Hello, Docker!" width="290" height="200">
+<img src="https://github.com/progressivepull/Resources/blob/main/Graphics/rock-paper-scissors/HelloDocker.jpg" alt="Hello, Docker!" width="250" height="100">
 
 # 3. Content Description
 
