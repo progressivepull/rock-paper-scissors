@@ -144,7 +144,7 @@ YouTube Channel
 * 🌙 https://www.youtube.com/@progressivepull
 
 Discord Invite
-* 🌙 https://discord.gg/HYFD6HgX
+* 🌙 HTTPS://DISCORD.GG/yGAdFJ9vQU
 
 Email Addresses
 * ✨progressivepull@gmail.com 
