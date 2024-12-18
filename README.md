@@ -55,7 +55,7 @@ $ docker build -t node-docker-app .
  => => naming to docker.io/library/node-docker-app   
  ```
 
-2. Run the Docker container:
+2. How to start the Docker Container:
 
 ```bash
 docker run -p 3000:3000 node-docker-app
