@@ -117,8 +117,35 @@ In summary, this code sets up a basic web server using Express. When you navigat
 ## Dockerfile
 Refer to the inline comments in the file for detailed explanations of each line of code.
 
-## docker-compose.yml
-Not used.
+## Docker Compose
+
+### Ensure Docker and Docker Compose are Installed
+ Make sure you have both Docker and Docker Compose installed on your machine. You can check by running **docker --version** and **docker-compose --version** in your terminal. **Ensure that the Docker Desktop is running.**
+
+ ```bash
+ docker --version
+ docker-compose --version
+ ```
+
+### docker-compose.yml
+Docker Compose is a tool that simplifies the process of defining and running multi-container Docker applications. It uses a **docker-compose.yml** file to configure your application's services. With just a single command, you can create and start all the services defined in this configuration.
+
+### Start Docker Compose
+
+Run the following command to start Docker Compose and bring up the services defined in your docker-compose.yml file:
+
+```bash
+docker-compose up
+```
+
+### Stop Docker Compose
+
+To stop and remove the containers, networks, and volumes defined in your docker-compose.yml file, use the following command:
+
+```bash
+docker-compose down
+```
+
 
 ## package.json
 Dependencies    
